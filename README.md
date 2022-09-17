@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Onur</h1>
 
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/IoP0PvbbSWGAM/giphy.gif">
-</a>
-
 - 🔭 I’m currently studying **Software Engineering**
 
 - 🤝 I’m currently learning **Golang**.
