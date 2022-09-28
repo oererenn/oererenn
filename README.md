@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying **Software Engineering**
 - 🤝 I’m currently learning **Golang**.
-- 🌱 I’m currently looking for an **graduation internship**.
+- 🌱 I’m currently looking for a **graduation internship**.
 - ♟ We can play some games of **Chess**
 - 🧑‍💻 My Skills:
 
