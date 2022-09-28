@@ -2,14 +2,10 @@
 
 
 - 🔭 I’m currently studying **Software Engineering**
-
 - 🤝 I’m currently learning **Golang**.
-
 - 🌱 I’m currently looking for an **internship**.
-
 - ♟ We can play some games of **Chess**
-
-- 🧑‍💻 My Skills :
+- 🧑‍💻 My Skills:
 
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
@@ -24,6 +20,9 @@
 </p>
 
 <br>
+Here are some projects that I worked on:
+
+- [Kwetter-Microservices:](https://github.com/oererenn/kwetter-microservices) An indivudal project for creating Twitter clone using microservices architectural pattern and Spring Framework 
 
 ---
 
