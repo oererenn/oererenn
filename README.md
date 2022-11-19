@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Onur</h1>
 
 
-- 🔭 I’m currently studying **Software Engineering**
+<!-- - 🔭 I’m currently studying **Software Engineering**
 - 🤝 I’m currently learning **Golang**.
 - 🌱 I’m currently looking for a **graduation internship**.
-- ♟ We can play some games of **Chess**
+- ♟ We can play some games of **Chess** -->
 - 🧑‍💻 My Skills:
 
 <p align="center">
