@@ -34,3 +34,5 @@ Here are some projects that I worked on:
     </a>
   </div>
 </div>
+
+![](https://komarev.com/ghpvc/?username=oererenn&color=brightgreen)
