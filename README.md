@@ -21,7 +21,8 @@
 <br>
 Here are some projects that I worked on:
 
-- [Kwetter-Microservices:](https://github.com/oererenn/kwetter-microservices) An indivudal project for creating Twitter clone using microservices architectural pattern and Spring Framework 
+- [Kwetter-Microservices:](https://github.com/oererenn/kwetter-microservices) An indivudal project for creating Twitter clone using microservices architectural pattern and Spring Framework
+- [Snake-Game:](https://github.com/oererenn/bevy-snake) A classic snake game built with Bevy, a refreshingly simple data-driven game engine built in Rust. 
 
 ---
 
