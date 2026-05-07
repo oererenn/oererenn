@@ -28,8 +28,13 @@
 <br>
 Here are some projects that I worked on:
 
-- [Kwetter-Microservices:](https://github.com/oererenn/kwetter-microservices) An indivudal project for creating Twitter clone using microservices architectural pattern and Spring Framework
-- [Bevy-Snake:](https://github.com/oererenn/bevy-snake) A classic snake game built with Bevy, a refreshingly simple data-driven game engine built in Rust. 
+- [AZ-900 Trainer](https://github.com/oererenn/az-900-svelte)
+    AI-assisted SvelteKit study app for Microsoft Azure Fundamentals (AZ-900). It includes module-based quizzes, local progress
+  tracking, attempt reports, starred questions, review-later markers, dark mode, and a JSON-based question bank.
+- [Kwetter-Microservices](https://github.com/oererenn/kwetter-microservices)
+    Twitter/X clone built with a microservices architecture using the Spring Framework.
+- [Bevy-Snake](https://github.com/oererenn/bevy-snake)
+    Classic Snake game built in Rust with the Bevy game engine.
 
 ---
 
