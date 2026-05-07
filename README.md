@@ -1,20 +1,29 @@
 <h1 align="center">Hi 👋, I'm Onur</h1>
 
+### 🧑‍💻 My Skills
 
-<!-- - 🔭 I’m currently studying **Software Engineering**
-- 🤝 I’m currently learning **Golang**.
-- 🌱 I’m currently looking for a **graduation internship**.
-- ♟ We can play some games of **Chess** -->
-- 🧑‍💻 My Skills:
-
-<p align="center">
-      <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="65" height="65"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".net" width="65" height="65"/> 
-      <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
-      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="postgres" width="145" height="155"/>
-</p>
+ <table align="center">
+    <tr>
+      <td align="center" width="80">
+        <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="Rust" width="55" height="55" />
+      </td>
+      <td align="center" width="80">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET" width="55" height="55" />
+      </td>
+      <td align="center" width="80">
+        <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="Docker" width="55" height="55" />
+      </td>
+      <td align="center" width="80">
+        <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="55" height="55" />
+      </td>
+      <td align="center" width="80">
+        <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="55" height="55" />
+      </td>
+      <td align="center" width="80">
+        <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="55" height="55" />
+      </td>
+    </tr>
+  </table>
 
 <br>
 Here are some projects that I worked on:
